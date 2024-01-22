@@ -1,0 +1,12 @@
+RTK Query
+Is a data fetching and caching tool.
+
+Making use of createAPI, and FetchBaseQuery
+
+
+Mutations
+used to send data to the server and updates local caches.
+delete, update, create
+
+
+Auto Refetching

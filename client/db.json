@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Lerato",
+      "email": "lerato@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Kagiso",
+      "email": "kagiso@gmail.com"
+    },
+    {
+      "name": "Lerato Updated",
+      "email": "lerato@gmail.com",
+      "id": "3"
+    }
+  ]
+}
